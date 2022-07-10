@@ -1,2 +1,2 @@
 # Spencer-verbose
-Yet Another Tech Blog
+Yet another tech blog.
